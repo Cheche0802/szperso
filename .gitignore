@@ -1,0 +1,8 @@
+/config/picasso_dbConnections.php
+/config/app.php
+/tmp/*
+/logs/*
+.travis.yml
+.IDEA/
+.idea/
+.idea/
